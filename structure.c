@@ -95,6 +95,8 @@ Accessing Structure Members
 	display_Book4(&Book4);
 	
 	return 0;
+	
+// what are the prons and cons of the Structure in C
 
 }
 
