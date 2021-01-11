@@ -79,7 +79,6 @@ Prerequisite:
     Array
     Structure
     Union
-    Class
     Pointer
 
 Stack:
